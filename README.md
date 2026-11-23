@@ -12,4 +12,4 @@ This repository archives the published article and its bibliographic provenance.
 
 The default-deny `.gitignore` and explicit publication-file allowlist exclude internal package metadata and any future data/code additions. No data/code licence is granted.
 
-See [version and source details](paper/README.md), [provenance](paper/provenance.json) and [SHA-256 checksums](PUBLICATION_SHA256SUMS).
+See [version and source details](paper/README.md), [provenance](publication-provenance.json) and [SHA-256 checksums](PUBLICATION_SHA256SUMS).
