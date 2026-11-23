@@ -1,0 +1,10 @@
+*
+!/.gitignore
+!/README.md
+!/LICENSE_STATUS.md
+!/CITATION.cff
+!/PUBLICATION_SHA256SUMS
+!/paper/
+!/paper/README.md
+!/paper/provenance.json
+!/paper/1-s2.0-S2667091726000233-main.pdf
